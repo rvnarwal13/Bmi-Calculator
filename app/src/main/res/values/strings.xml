@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+    <string name="default_values">00</string>
+
+    <string-array name="height_dropdown">
+        <item>meter</item>
+        <item>centimeter</item>
+        <item>feet</item>
+        <item>inches</item>
+    </string-array>
+
+    <string-array name="weight_dropdown">
+        <item>kilogram</item>
+        <item>gram</item>
+        <item>pound</item>
+        <item>ounce</item>
+        <item>stone</item>
+    </string-array>
+
+    <string name="underweight_tip">Note : "Increase calorie intake with nutrient-rich foods to gain weight healthily."</string>
+    <string name="normal_tip">Note : "Maintain your current lifestyle with balanced nutrition and regular exercise."</string>
+    <string name="overweight_tip">Note : "Incorporate a calorie deficit diet and regular physical activity to shed extra pounds."</string>
+    <string name="obese_tip">Note : "Consult a healthcare professional for a tailored weight-loss plan and focus on sustainable lifestyle changes."</string>
+
+</resources>
